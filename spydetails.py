@@ -1,3 +1,1 @@
-spy_name="Ms.Anjali"
-spy_age=20
-spy_rating=3.5
+spy={'name':'Anjali','age':20,'rating':3.7,'is_online':True}
